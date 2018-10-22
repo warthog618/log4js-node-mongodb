@@ -54,8 +54,8 @@
         "load-grunt-tasks": "^3.5.0"
     },
     "dependencies": {
-        "log4js": "^2",
-        "lx-helpers": "^0.5.1",
-        "mongodb": "^2.2.5"
+        "log4js": "3.0.6",
+        "lx-helpers": "0.5.1",
+        "mongodb": "3.1.8"
     }
 }
